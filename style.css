@@ -126,7 +126,8 @@ h3 {
 
 .inFocus {
     opacity: 1.0;
-    background-color: #f0f0f0;
+    background-color: #000;
+    color: #ffff;
 }
 
 .outFocus {
